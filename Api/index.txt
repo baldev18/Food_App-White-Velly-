@@ -1,6 +1,0 @@
-echo "<li><a href='baldev/insert.php'>insert</a></li>";
-echo "<li><a href='baldev/delete.php'>delete</a></li>";
-echo "<li><a href='baldev/update.php'>update</a></li>";
-echo "<li><a href='baldev/view.php'>view</a></li>";
-echo "<li><a href='baldev/signin.php'>signin</a></li>";
-echo "<li><a href='baldev/signup.php'>signup</a></li>";
